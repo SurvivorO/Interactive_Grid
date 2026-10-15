@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 804450f1175c90c41a5698844cf48a3f, type: 3}
+  m_Name: GoldCube
+  m_EditorClassIdentifier: Assembly-CSharp::CubeTypeData
+  typeName: GoldCube
+  color: {r: 1, g: 0.8400785, b: 0.3160377, a: 1}
+  material: {fileID: 2100000, guid: c5e6d3054185324429ae979fd53f7145, type: 2}
